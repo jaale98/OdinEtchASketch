@@ -67,3 +67,17 @@ button:hover {
 .square:hover {
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
 }
+
+.controls {
+    margin-bottom: 30px;
+  }
+  
+  #gridSizeInput {
+    padding: 10px;
+    font-size: 1rem;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    width: 250px;
+    margin-right: 10px;
+    text-align: center;
+  }
